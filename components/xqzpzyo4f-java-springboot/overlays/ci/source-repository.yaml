@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: xqzpzyo4f-java-springboot-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/xqzpzyo4f-java-springboot
